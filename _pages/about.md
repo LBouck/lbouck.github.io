@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Associate, Department of Mathematical Sciences, <a href='https://www.cmu.edu/math/'>Carnegie Mellon University</a>.
+subtitle: Flatiron Research Fellow, Center for Computational Biology, <a href='https://www.simonsfoundation.org/flatiron/computational-biology/'>Flatiron Institute</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Mathematical Sciences</p>
-    <p>Carnegie Mellon University</p>
-    <p>Pittsburgh, PA</p>
+    <p>Center for Computational Biology</p>
+    <p>Flatiron Institute</p>
+    <p>New York, NY</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Associate in the [Department of Mathematical Sciences](https://www.cmu.edu/math/) at Carnegie Mellon University.
+I am a Flatiron Research Fellow in the [Center for Computational Biology](https://www.simonsfoundation.org/flatiron/computational-biology/) at the Flatiron Institute.
 
 My research interests are in mathematical modeling, partial differential equations, calculus of variations, and numerical analysis. Much of my work concerns the modeling, analysis, and finite element approximation of liquid crystals, liquid crystal elastomers, and thin elastic structures.
 
