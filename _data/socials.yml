@@ -2,9 +2,9 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/bouck_cv.pdf # path to your CV PDF file
-email: lbouck@andrew.cmu.edu # your email address
+email: lbouck@flatironinstitute.org # your email address
 github_username: LBouck # your GitHub username
-# scholar_userid: # TODO: add your Google Scholar ID (the string after user= in your Scholar profile URL)
+scholar_userid: l0xOyq8AAAAJ # TODO: add your Google Scholar ID (the string after user= in your Scholar profile URL)
 # orcid_id: # TODO: add your ORCID iD if you have one
 # arxiv_id: # your arXiv author identifier
 rss_icon: false # comment this line to hide the RSS icon
